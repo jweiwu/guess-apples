@@ -1,21 +1,21 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Guess Apples",
+  "name": "Guess apples",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "src": "favicon-16x16.ico",
+      "sizes": "24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "favicon-32x32.ico",
+      "sizes": "64x64 32x32",
+      "type": "image/x-icon"
     },
     {
-      "src": "logo512.png",
+      "src": "alphabet.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512 192x192"
     }
   ],
   "start_url": ".",
