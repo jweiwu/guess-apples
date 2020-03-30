@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/guess-apples/static/css/main.84589ed8.chunk.css",
+    "main.js": "/guess-apples/static/js/main.f768754b.chunk.js",
+    "main.js.map": "/guess-apples/static/js/main.f768754b.chunk.js.map",
+    "runtime-main.js": "/guess-apples/static/js/runtime-main.a313d151.js",
+    "runtime-main.js.map": "/guess-apples/static/js/runtime-main.a313d151.js.map",
+    "static/css/2.de424728.chunk.css": "/guess-apples/static/css/2.de424728.chunk.css",
+    "static/js/2.7c162cf5.chunk.js": "/guess-apples/static/js/2.7c162cf5.chunk.js",
+    "static/js/2.7c162cf5.chunk.js.map": "/guess-apples/static/js/2.7c162cf5.chunk.js.map",
+    "index.html": "/guess-apples/index.html",
+    "precache-manifest.f1f958dfddf32e114de10937d6a47572.js": "/guess-apples/precache-manifest.f1f958dfddf32e114de10937d6a47572.js",
+    "service-worker.js": "/guess-apples/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/guess-apples/static/css/2.de424728.chunk.css.map",
+    "static/css/main.84589ed8.chunk.css.map": "/guess-apples/static/css/main.84589ed8.chunk.css.map",
+    "static/js/2.7c162cf5.chunk.js.LICENSE.txt": "/guess-apples/static/js/2.7c162cf5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a313d151.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.7c162cf5.chunk.js",
+    "static/css/main.84589ed8.chunk.css",
+    "static/js/main.f768754b.chunk.js"
+  ]
+}
